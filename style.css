@@ -1,0 +1,28 @@
+.image {
+    height: auto;
+    width: 500px;
+}
+
+.image.chef {
+    height: auto;
+    width: 300px;
+}
+
+#heading, 
+#mediumheading,
+.description,
+.orderedlist, 
+.unorderedlist {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#heading {
+    background-color: black;
+    text-align: center;
+}
+
+
+#heading,
+#mediumheading {
+    color: brown;
+}
